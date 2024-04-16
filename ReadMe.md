@@ -5,5 +5,5 @@
 
 애니메이션, 미디어쿼리, 화면 전환 이벤트 구현 완료
 
-<img src="https://github.com/YeryungCho/banksalad-clone-coding/assets/80876980/9bc15c80-36bd-4542-b2bf-2e2fd0c70d32"/ width=100>
-<img src="https://github.com/YeryungCho/banksalad-clone-coding/assets/80876980/71c99fd0-bd7c-414f-aeba-e2a9c7199b54"/ width=100>
+![KakaoTalk_20240415_111042356](https://github.com/YeryungCho/banksalad-clone-coding/assets/80876980/f2830948-66d4-4f7f-800b-f7156a64d499)
+![KakaoTalk_20240415_111042356_01](https://github.com/YeryungCho/banksalad-clone-coding/assets/80876980/7535616c-a82c-434d-941a-645a4a16f5ac)
